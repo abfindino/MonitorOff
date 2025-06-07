@@ -18,8 +18,8 @@ How It Works:
 *** Windows/Browser Blocking Notice & How to Fix It ***
 
 Modern browsers and Windows Defender often flag .exe files as potentially harmful, even when they are 100% safe — like this one. This is a false positive caused by the fact that:
-- The file is not widely known or digitally signed
-- It's a new file without a history or publisher identity
+- The file is not widely known or digitally signed.
+- It's a new file without a history or publisher identity.
 
 To avoid this issue, I’ve provided a ZIP version of the .exe file. You can download the ZIP with no issues and then extract it safely on your computer.
 
@@ -27,11 +27,11 @@ How to Stop Windows Defender from Deleting the File?
 
 If Windows Defender removes the .exe file after extraction, follow these steps to add it as an exception:
 -Press Windows Key and type Windows Security, then open it.
--Go to “Virus & threat protection”
--Scroll down and click “Manage settings” under Virus & threat protection settings
--Scroll down and click “Add or remove exclusions” under Exclusions
--Click “+ Add an exclusion” → choose “File”
--Browse and select the .exe file you extracted from the ZIP
+-Go to “Virus & threat protection”.
+-Scroll down and click “Manage settings” under Virus & threat protection settings.
+-Scroll down and click “Add or remove exclusions” under Exclusions.
+-Click “+ Add an exclusion” → choose “File”.
+-Browse and select the .exe file you extracted from the ZIP.
 -Once added, Windows Defender will no longer flag or delete the file.
 
 Is it safe?
