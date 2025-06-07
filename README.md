@@ -20,6 +20,7 @@ How It Works:
 Modern browsers and Windows Defender often flag .exe files as potentially harmful, even when they are 100% safe — like this one. This is a false positive caused by the fact that:
 - The file is not widely known or digitally signed
 - It's a new file without a history or publisher identity
+
 To avoid this issue, I’ve provided a ZIP version of the .exe file. You can download the ZIP with no issues and then extract it safely on your computer.
 
 How to Stop Windows Defender from Deleting the File?
